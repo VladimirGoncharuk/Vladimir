@@ -1,5 +1,7 @@
 #  Инструкция по работе с GIT
 
+Lisence: [MIT](license.md)
+
 ![git logo](./assets/git-support-algorithm-development-1.jpg )
 
 ---
